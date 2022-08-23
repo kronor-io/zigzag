@@ -21,7 +21,7 @@ library
     Data.Word.Zigzag
   -- other-modules:
   build-depends:
-    , base >=4.11.1 && <4.17
+    , base >=4.11.1 && <4.18
   default-language: Haskell2010
   ghc-options: -O2 -Wall -Wunticked-promoted-constructors
 
